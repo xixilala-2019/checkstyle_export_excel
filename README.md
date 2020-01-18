@@ -10,11 +10,18 @@
 
 3.使用 checkstyle 源代码，直接运行，导出 文本/XML，可自定义导出，如 excel
 
+
+
+
+
 使用 gradle 导出
 参考 https://www.cnblogs.com/woshimrf/p/using-checkstyle.html
 
 使用 jar 包导出
 参考 https://blog.csdn.net/cyj083/article/details/77044030
+
+
+
 
 使用源码导出
 原料：
