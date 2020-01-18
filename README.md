@@ -3,8 +3,11 @@
 
 
 工作需要，开始学习使用checkout，学习过程如下：
+
 1.可以使用 gradle 导出 html
+
 2.使用 checkstyle jar 包，命令行导出 文本/XML 
+
 3.使用 checkstyle 源代码，直接运行，导出 文本/XML，可自定义导出，如 excel
 
 使用 gradle 导出
